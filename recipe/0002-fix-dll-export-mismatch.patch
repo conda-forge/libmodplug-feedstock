@@ -52,5 +52,3 @@ index a4d0232..bfb8c38 100644
  	static PMIXPLUGINCREATEPROC gpMixPluginCreateProc;
  
 -- 
-2.47.0.windows.2
-
